@@ -1,5 +1,5 @@
-# Proyecto_Cryptografy
-# Práctica de Encriptación - Jorge Bernal Liarte
+
+# Proyecto_Cryptografy - Jorge Bernal Liarte
 
 Este proyecto es una práctica de encriptación y desencriptación de mensajes utilizando la librería `cryptography` en Python.
 
