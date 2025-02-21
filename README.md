@@ -1,11 +1,11 @@
 
 # Proyecto_Cryptografy - Jorge Bernal Liarte
 
-Este proyecto es una práctica de encriptación y desencriptación de mensajes utilizando la librería `cryptography` en Python.
+Este proyecto es una práctica de encriptado y desencriptado de mensajes utilizando la librería `cryptography` en Python.
 
 ## Descripción
 El script permite:
-- Generar una clave secreta de encriptación.
+- Generar una clave secreta encriptada.
 - Cifrar un mensaje ingresado por el usuario.
 - Guardar el mensaje cifrado en un archivo.
 - Descifrar el mensaje y almacenarlo en otro archivo.
